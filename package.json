@@ -1,0 +1,15 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "A simple Command-line notes app based on NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
